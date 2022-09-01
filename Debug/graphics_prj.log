@@ -1,0 +1,119 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  XOR2.cpp
+  XNOR2.cpp
+  SWITCH.cpp
+  AddNOTgate.cpp
+  OR3.cpp
+  OR2.cpp
+  NOT.cpp
+  NOR3.cpp
+  NOR2.cpp
+  NAND3.cpp
+  main.cpp
+  Output.cpp
+  Input.cpp
+  XOR3.cpp
+  XNOR3.cpp
+  ApplicationManager.cpp
+  Pin.cpp
+  OutputPin.cpp
+  NAND2.cpp
+  LED.cpp
+  Generating Code...
+C:\Users\medoa\Downloads\Project Code Framework - Copy\Components\LED.cpp(39): warning C4172: returning address of local variable or temporary: z
+  Compiling...
+  InputPin.cpp
+  Gate.cpp
+  Connection.cpp
+  Component.cpp
+  BUFFER.cpp
+  AND2.cpp
+  windowinput.cpp
+  mousequeue.cpp
+  keyqueue.cpp
+  image.cpp
+C:\Users\medoa\Downloads\Project Code Framework - Copy\CMUgraphicsLib\image.cpp(115,29): warning C4018: '<': signed/unsigned mismatch
+  CMUgraphics.cpp
+C:\Users\medoa\Downloads\Project Code Framework - Copy\CMUgraphicsLib\CMUgraphics.cpp(751,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\medoa\Downloads\Project Code Framework - Copy\CMUgraphicsLib\CMUgraphics.cpp(1164,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\medoa\Downloads\Project Code Framework - Copy\CMUgraphicsLib\CMUgraphics.cpp(1171,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\medoa\Downloads\Project Code Framework - Copy\CMUgraphicsLib\CMUgraphics.cpp(1202,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\medoa\Downloads\Project Code Framework - Copy\CMUgraphicsLib\CMUgraphics.cpp(1210,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\medoa\Downloads\Project Code Framework - Copy\CMUgraphicsLib\CMUgraphics.cpp(1357,23): warning C4018: '>': signed/unsigned mismatch
+  auxil.cpp
+  AND3.cpp
+  AddXORgate2.cpp
+  AddXNORgate2.cpp
+  AddORgate3.cpp
+  AddORgate2.cpp
+  AddNORgate3.cpp
+  AddNORgate2.cpp
+  AddNANDgate3.cpp
+  Generating Code...
+C:\Users\medoa\Downloads\Project Code Framework - Copy\Components\Connection.cpp(66): warning C4172: returning address of local variable or temporary: z
+  Compiling...
+  AddANDgate3.cpp
+  UNDO.cpp
+  Simulate.cpp
+  Select.cpp
+  Save.cpp
+  REDO.cpp
+  Paste.cpp
+  Load.cpp
+  Edit.cpp
+  Delete.cpp
+  Cut.cpp
+  Copy.cpp
+  AddXORgate3.cpp
+  AddXNORgate3.cpp
+  AddSWITCH.cpp
+  AddNANDgate2.cpp
+  AddLED.cpp
+  AddConc.cpp
+C:\Users\medoa\Downloads\Project Code Framework - Copy\Actions\AddConc.cpp(74,71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\medoa\Downloads\Project Code Framework - Copy\Actions\AddConc.cpp(91,71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\medoa\Downloads\Project Code Framework - Copy\Actions\AddConc.cpp(107,71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\medoa\Downloads\Project Code Framework - Copy\Actions\AddConc.cpp(120,71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  AddBUFFER.cpp
+  AddANDgate2.cpp
+  Generating Code...
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  jutils.c
+  jquant2.c
+  jquant1.c
+  jmemnobs.c
+  jmemmgr.c
+C:\Users\medoa\Downloads\Project Code Framework - Copy\CMUgraphicsLib\jpeg\jmemmgr.c(1103,19): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\medoa\Downloads\Project Code Framework - Copy\CMUgraphicsLib\jpeg\jmemmgr.c(1106,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jidctred.c
+  jidctint.c
+  jidctfst.c
+  jidctflt.c
+  jerror.c
+C:\Users\medoa\Downloads\Project Code Framework - Copy\CMUgraphicsLib\jpeg\jerror.c(169,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\medoa\Downloads\Project Code Framework - Copy\CMUgraphicsLib\jpeg\jerror.c(171,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jdtrans.c
+  jdsample.c
+  jdpostct.c
+  jdphuff.c
+  jdmerge.c
+  jdmaster.c
+  jdmarker.c
+  jdmainct.c
+  jdinput.c
+  jdhuff.c
+  Generating Code...
+  Compiling...
+  jddctmgr.c
+  jdcolor.c
+  jdcoefct.c
+  jdatasrc.c
+  jdapistd.c
+  jdapimin.c
+  jcparam.c
+  jcomapi.c
+  jpegload.c
+C:\Users\medoa\Downloads\Project Code Framework - Copy\CMUgraphicsLib\jpegload.c(23,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+AddANDgate2.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  graphics_prj.vcxproj -> C:\Users\medoa\Downloads\Project Code Framework - Copy\Debug\graphics_prj.exe
